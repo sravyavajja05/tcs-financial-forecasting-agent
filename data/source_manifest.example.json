@@ -1,0 +1,22 @@
+{
+  "financial_reports/quarterly_results.pdf": {
+    "doc_type": "financial_report",
+    "period": "Q2 FY25",
+    "source_url": null,
+    "publication_date": "YYYY-MM-DD",
+    "retrieval_date": "YYYY-MM-DD",
+    "retrieval_status": "not_verified",
+    "basis": "consolidated",
+    "currency": "INR",
+    "unit": "crore"
+  },
+  "earnings_call_transcripts/quarterly_transcript.pdf": {
+    "doc_type": "transcript",
+    "period": "Q2 FY25",
+    "source_url": null,
+    "publication_date": "YYYY-MM-DD",
+    "call_date": "YYYY-MM-DD",
+    "retrieval_date": "YYYY-MM-DD",
+    "retrieval_status": "not_verified"
+  }
+}

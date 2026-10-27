@@ -1,0 +1,95 @@
+{
+  "financial_reports/Q2_FY27_results.pdf": {
+    "doc_type": "financial_report",
+    "period": "Q2 FY27",
+    "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2b021530-bbc2-4590-8375-cefc205a7132.pdf",
+    "publication_date": "2026-10-08",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified",
+    "basis": "consolidated",
+    "currency": "INR",
+    "unit": "crore"
+  },
+  "financial_reports/Q1_FY27_results.pdf": {
+    "doc_type": "financial_report",
+    "period": "Q1 FY27",
+    "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ef21b97e-798a-47fa-9dd6-cd22d1fc758a.pdf",
+    "publication_date": "2026-07-09",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified",
+    "basis": "consolidated",
+    "currency": "INR",
+    "unit": "crore"
+  },
+  "financial_reports/Q4_FY26_results.pdf": {
+    "doc_type": "financial_report",
+    "period": "Q4 FY26",
+    "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/da445746-06b9-4078-a71b-cc48f97fbc93.pdf",
+    "publication_date": "2026-04-09",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified",
+    "basis": "consolidated",
+    "currency": "INR",
+    "unit": "crore"
+  },
+  "financial_summaries/Q2_FY27_press_release.pdf": {
+    "doc_type": "financial_summary",
+    "period": "Q2 FY27",
+    "source_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_08102026154325_PressReleaseletter.pdf",
+    "publication_date": "2026-10-08",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified",
+    "basis": "consolidated",
+    "currency": "INR",
+    "unit": "crore"
+  },
+  "financial_summaries/Q1_FY27_press_release.pdf": {
+    "doc_type": "financial_summary",
+    "period": "Q1 FY27",
+    "source_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09072026155553_Press_release_signed.pdf",
+    "publication_date": "2026-07-09",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified",
+    "basis": "consolidated",
+    "currency": "INR",
+    "unit": "crore"
+  },
+  "financial_summaries/Q4_FY26_press_release.pdf": {
+    "doc_type": "financial_summary",
+    "period": "Q4 FY26",
+    "source_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_09042026155806_PressReleaseletter_signed.pdf",
+    "publication_date": "2026-04-09",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified",
+    "basis": "consolidated",
+    "currency": "INR",
+    "unit": "crore"
+  },
+  "earnings_call_transcripts/Q2_FY27_transcript.pdf": {
+    "doc_type": "transcript",
+    "period": "Q2 FY27",
+    "source_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_14102026155941_SEInt14102026_signed.pdf",
+    "publication_date": "2026-10-14",
+    "call_date": "2026-10-08",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified"
+  },
+  "earnings_call_transcripts/Q1_FY27_transcript.pdf": {
+    "doc_type": "transcript",
+    "period": "Q1 FY27",
+    "source_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_15072026193646_SEInt15072026_Signed.pdf",
+    "publication_date": "2026-07-15",
+    "call_date": "2026-07-09",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified"
+  },
+  "earnings_call_transcripts/Q4_FY26_transcript.pdf": {
+    "doc_type": "transcript",
+    "period": "Q4 FY26",
+    "source_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_14042026200132_SEInt14042026_signed.pdf",
+    "publication_date": "2026-04-14",
+    "call_date": "2026-04-09",
+    "retrieval_date": "2026-10-27",
+    "retrieval_status": "downloaded_pdf_text_verified"
+  }
+}
